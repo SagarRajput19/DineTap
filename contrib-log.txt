@@ -1,2 +1,3 @@
 Improved responsiveness on 2025-03-04
 Updated docs on 2025-03-05
+Added validation on 2025-03-07
