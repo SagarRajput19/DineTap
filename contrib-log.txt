@@ -107,3 +107,4 @@ Cleaned up code on 2025-03-04
 Added validation on 2025-03-07
 Fixed minor bug on 2025-03-11
 Updated docs on 2025-03-12
+Optimized queries on 2025-03-13
