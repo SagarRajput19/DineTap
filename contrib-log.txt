@@ -75,3 +75,4 @@ Fixed typo on 2025-03-10
 Fixed minor bug on 2025-03-16
 Updated feature on 2025-03-17
 Improved UI on 2025-03-18
+Updated docs on 2025-03-19
