@@ -113,3 +113,4 @@ Updated docs on 2025-03-15
 Updated docs on 2025-03-16
 Fixed minor bug on 2025-03-18
 Improved UI on 2025-03-19
+Updated feature on 2025-03-20
