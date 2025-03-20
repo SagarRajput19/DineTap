@@ -41,3 +41,4 @@ Updated docs on 2025-03-11
 Fixed typo on 2025-03-12
 Improved responsiveness on 2025-03-13
 Added validation on 2025-03-18
+Updated feature on 2025-03-20
