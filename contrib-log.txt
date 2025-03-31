@@ -49,3 +49,4 @@ Fixed typo on 2025-03-25
 Updated feature on 2025-03-26
 Updated docs on 2025-03-28
 Refactored code on 2025-03-30
+Improved responsiveness on 2025-03-31
