@@ -119,3 +119,4 @@ Added validation on 2025-03-23
 Refactored code on 2025-03-25
 Improved responsiveness on 2025-03-28
 Updated docs on 2025-03-29
+Cleaned up code on 2025-04-01
