@@ -51,3 +51,4 @@ Updated docs on 2025-03-28
 Refactored code on 2025-03-30
 Improved responsiveness on 2025-03-31
 Improved responsiveness on 2025-04-01
+Cleaned up code on 2025-04-02
