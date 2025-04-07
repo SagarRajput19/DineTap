@@ -18,3 +18,4 @@ Updated feature on 2025-03-30
 Improved UI on 2025-03-31
 Optimized queries on 2025-04-04
 Improved responsiveness on 2025-04-05
+Added validation on 2025-04-07
