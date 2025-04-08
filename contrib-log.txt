@@ -90,3 +90,4 @@ Improved responsiveness on 2025-03-31
 Updated feature on 2025-04-01
 Fixed typo on 2025-04-02
 Added validation on 2025-04-04
+Improved UI on 2025-04-08
