@@ -124,3 +124,4 @@ Refactored code on 2025-04-02
 Improved responsiveness on 2025-04-05
 Updated feature on 2025-04-06
 Updated feature on 2025-04-09
+Updated docs on 2025-04-11
