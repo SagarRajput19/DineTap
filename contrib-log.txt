@@ -128,3 +128,4 @@ Updated docs on 2025-04-11
 Updated docs on 2025-04-12
 Refactored code on 2025-04-13
 Fixed typo on 2025-04-14
+Improved responsiveness on 2025-04-17
