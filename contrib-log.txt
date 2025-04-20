@@ -25,3 +25,4 @@ Updated docs on 2025-04-11
 Updated docs on 2025-04-16
 Optimized queries on 2025-04-18
 Improved UI on 2025-04-19
+Added validation on 2025-04-20
