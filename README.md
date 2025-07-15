@@ -4,7 +4,6 @@ TapDine is a simple digital menu platform for restaurants. It lets restaurants m
 The project focuses on usability and efficiency, especially for small restaurants that need a digital presence without technical overhead. I built the front end and used Firebase for real-time data handling.
 
 ## 🛠 Tech Stack
-
 - HTML
 - CSS
 - JavaScript
