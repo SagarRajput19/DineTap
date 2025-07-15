@@ -1,5 +1,4 @@
 
-
 # TapDine – Digital Menu for Restaurants
 
 TapDine is a simple digital menu platform for restaurants. It lets restaurants manage their menus online, and customers can view them instantly by scanning a QR code. It’s a fast and contactless way to browse food menus.
