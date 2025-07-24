@@ -10,7 +10,6 @@ The project focuses on usability and efficiency, especially for small restaurant
 - Firebase (Realtime Database, Hosting)
 
 ## ✨ Features
-
 - 🏪 Restaurant registration and menu management system.
 - 📷 QR code generation for each restaurant’s unique menu.
 - 🔄 Real-time syncing using Firebase.
