@@ -50,9 +50,14 @@ function displayFoodItems(filteredItems) {
         foodItem.classList.add("food-item");
         foodItem.innerHTML = `
             <img src="${data.imageUrl}" width="100" height="100">
+            <div class="info">
+           <div class="name-price"> 
             <p><strong>${data.foodName}</strong></p>
-            <p>Price: ₹${data.price}</p>
-            <p>${data.description}</p>
+            <p class="price">₹${data.price}</p>
+           </div>
+            <p class ="dis">${data.description}</p>          
+            </div>            
+            
         `;
         foodListContainer.appendChild(foodItem);
     });
