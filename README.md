@@ -16,6 +16,7 @@ The project focuses on usability and efficiency, especially for small restaurant
 - 📱 Fully responsive layout for customers and admin use.
 - 🧑‍💼 **Admin Dashboard** for restaurants to manage menu items easily.
 
+
 ## 👨‍🍳 Admin Dashboard
 
 Each restaurant gets access to an intuitive admin panel where they can:
