@@ -35,5 +35,4 @@ Each restaurant gets access to an intuitive admin panel where they can:
 No refresh or delay — menu changes show up instantly for customers.
 
 ## 🚀 Live Demo
-
 [https://dinetap-pro.netlify.app/]
